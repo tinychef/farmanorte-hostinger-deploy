@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60" fill="none">
+  <rect width="220" height="60" rx="8" fill="transparent"/>
+  <!-- Eurofarma Vibrant Sphere/Globe -->
+  <g transform="translate(10, 13)">
+    <circle cx="17" cy="17" r="17" fill="#F59E0B"/>
+    <path d="M7 17 C7 9 27 9 27 17 C27 25 7 25 7 17 Z" fill="#D97706"/>
+    <circle cx="17" cy="17" r="8" fill="#FFFFFF"/>
+    <circle cx="17" cy="17" r="4" fill="#B45309"/>
+  </g>
+  <text x="54" y="38" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="21" font-weight="900" fill="#1E293B" letter-spacing="0.5">eurofarma</text>
+  <text x="55" y="49" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="7.5" font-weight="700" fill="#B45309" letter-spacing="1.5">SALUD &amp; INNOVACIÓN</text>
+</svg>

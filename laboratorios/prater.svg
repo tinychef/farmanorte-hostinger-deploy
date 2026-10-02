@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <rect width="240" height="60" rx="8" fill="transparent"/>
+  <!-- Prater Logo Emblem / Red Ribbon & Bold Font -->
+  <g transform="translate(10, 12)">
+    <circle cx="18" cy="18" r="18" fill="#DC2626"/>
+    <path d="M10 18 L18 10 L26 18 L18 26 Z" fill="#FFFFFF"/>
+    <circle cx="18" cy="18" r="4" fill="#DC2626"/>
+  </g>
+  <text x="56" y="32" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="19" font-weight="900" fill="#991B1B" letter-spacing="1">PRATER</text>
+  <text x="57" y="47" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="9" font-weight="700" fill="#64748B" letter-spacing="1.5">LABORATORIOS CHILE</text>
+</svg>

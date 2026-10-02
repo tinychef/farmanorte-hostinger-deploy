@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <rect width="240" height="60" rx="8" fill="transparent"/>
+  <!-- Deutsche Pharma Blue Diamond -->
+  <g transform="translate(10, 12)">
+    <rect x="2" y="2" width="32" height="32" rx="6" fill="#1E3A8A"/>
+    <path d="M10 18 L18 10 L26 18 L18 26 Z" fill="#60A5FA"/>
+  </g>
+  <text x="56" y="32" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="900" fill="#1E3A8A" letter-spacing="0.5">DEUTSCHE</text>
+  <text x="56" y="47" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="800" fill="#0284C7" letter-spacing="1">PHARMA CHILE</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" fill="none">
+  <defs>
+    <linearGradient id="eucerinGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F1F5F9"/>
+    </linearGradient>
+    <filter id="shadowEucerin" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#0F172A" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <ellipse cx="160" cy="215" rx="70" ry="12" fill="#0F172A" opacity="0.08"/>
+  <g filter="url(#shadowEucerin)">
+    <!-- Tapa Blanca con anillo rojo -->
+    <rect x="135" y="35" width="50" height="25" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+    <rect x="135" y="55" width="50" height="5" fill="#DC2626"/>
+    <!-- Frasco con dispensador -->
+    <rect x="115" y="60" width="90" height="135" rx="14" fill="url(#eucerinGrad)" stroke="#CBD5E1" stroke-width="1.5"/>
+    
+    <text x="160" y="85" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="900" fill="#DC2626" text-anchor="middle">Eucerin</text>
+    <text x="160" y="96" font-family="'Plus Jakarta Sans', sans-serif" font-size="7" font-weight="700" fill="#0F172A" text-anchor="middle">SUN PROTECTION</text>
+    <rect x="125" y="103" width="70" height="18" rx="4" fill="#059669"/>
+    <text x="160" y="115" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="900" fill="#FFFFFF" text-anchor="middle">OIL CONTROL</text>
+    <text x="160" y="142" font-family="'Plus Jakarta Sans', sans-serif" font-size="18" font-weight="900" fill="#0F172A" text-anchor="middle">50+</text>
+    <text x="160" y="156" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="700" fill="#64748B" text-anchor="middle">Dry Touch Gel-Cream</text>
+    <text x="160" y="170" font-family="'Plus Jakarta Sans', sans-serif" font-size="7.5" font-weight="600" fill="#059669" text-anchor="middle">Toque Seco 50ml</text>
+  </g>
+</svg>

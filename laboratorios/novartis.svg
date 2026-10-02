@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <rect width="240" height="60" rx="8" fill="transparent"/>
+  <!-- Novartis Motif -->
+  <g transform="translate(10, 12)">
+    <circle cx="18" cy="18" r="18" fill="#E84824"/>
+    <path d="M10 24 Q18 8 26 24" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+  </g>
+  <text x="56" y="34" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="900" fill="#003764" letter-spacing="0.5">NOVARTIS</text>
+  <text x="57" y="47" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="8" font-weight="700" fill="#E84824" letter-spacing="1">REIMAGINING MEDICINE</text>
+</svg>

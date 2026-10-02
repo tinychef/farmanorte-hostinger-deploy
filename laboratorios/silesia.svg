@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60" fill="none">
+  <rect width="200" height="60" rx="8" fill="transparent"/>
+  <!-- Laboratorio Silesia -->
+  <g transform="translate(10, 13)">
+    <circle cx="17" cy="17" r="17" fill="#E11D48"/>
+    <path d="M9 17 Q17 5 25 17 Q17 29 9 17 Z" fill="#FFFFFF"/>
+    <circle cx="17" cy="17" r="3" fill="#E11D48"/>
+  </g>
+  <text x="54" y="37" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="21" font-weight="900" fill="#881337" letter-spacing="1">SILESIA</text>
+  <text x="55" y="49" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="7.5" font-weight="700" fill="#BE123C" letter-spacing="1.5">FARMA ÉTICA</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" fill="none">
+  <defs>
+    <linearGradient id="bottleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8FAFC"/>
+    </linearGradient>
+    <filter id="shadowBottle" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#0F172A" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <ellipse cx="160" cy="215" rx="70" ry="12" fill="#0F172A" opacity="0.08"/>
+  <g filter="url(#shadowBottle)">
+    <!-- Tapa Naranja Anthelios -->
+    <rect x="135" y="35" width="50" height="25" rx="5" fill="#F97316"/>
+    <!-- Frasco Rectangular redondeado -->
+    <rect x="110" y="60" width="100" height="135" rx="16" fill="url(#bottleGrad)" stroke="#CBD5E1" stroke-width="1.5"/>
+    <!-- Franja Naranja de Marca -->
+    <rect x="110" y="100" width="100" height="10" fill="#EA580C"/>
+    
+    <text x="160" y="85" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="900" fill="#1E293B" text-anchor="middle">LA ROCHE-POSAY</text>
+    <text x="160" y="94" font-family="'Plus Jakarta Sans', sans-serif" font-size="7" font-weight="700" fill="#0284C7" text-anchor="middle">LABORATOIRE DERMATOLOGIQUE</text>
+    <text x="160" y="125" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="900" fill="#EA580C" text-anchor="middle">ANTHELIOS</text>
+    <text x="160" y="142" font-family="'Plus Jakarta Sans', sans-serif" font-size="16" font-weight="900" fill="#0F172A" text-anchor="middle">SPF 50+</text>
+    <text x="160" y="158" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="700" fill="#475569" text-anchor="middle">UVMUNE 400</text>
+    <text x="160" y="172" font-family="'Plus Jakarta Sans', sans-serif" font-size="7.5" font-weight="600" fill="#64748B" text-anchor="middle">Fluido Invisible 50ml</text>
+  </g>
+</svg>

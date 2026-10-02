@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <rect width="240" height="60" rx="8" fill="transparent"/>
+  <!-- Pfizer Helix Oval -->
+  <g transform="translate(10, 12)">
+    <ellipse cx="18" cy="18" rx="18" ry="14" fill="#005B94"/>
+    <path d="M12 12 Q18 24 24 12 Q18 28 12 12 Z" fill="#FFFFFF"/>
+  </g>
+  <text x="56" y="34" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="900" fill="#005B94" letter-spacing="1">Pfizer</text>
+  <text x="57" y="47" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="8" font-weight="700" fill="#64748B" letter-spacing="1">INNOVACIÓN TERAPÉUTICA</text>
+</svg>

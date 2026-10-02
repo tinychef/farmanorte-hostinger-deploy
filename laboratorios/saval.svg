@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60" fill="none">
+  <rect width="200" height="60" rx="8" fill="transparent"/>
+  <!-- Saval Modern Helix / Hexagon -->
+  <g transform="translate(10, 12)">
+    <polygon points="18,0 36,10 36,30 18,40 0,30 0,10" fill="#0284C7"/>
+    <path d="M9 15 Q18 8 27 15 Q36 22 27 29 Q18 36 9 29 Z" fill="#FFFFFF" opacity="0.9"/>
+  </g>
+  <text x="56" y="37" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="24" font-weight="900" fill="#0369A1" letter-spacing="2">SAVAL</text>
+  <text x="58" y="49" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="7.5" font-weight="700" fill="#64748B" letter-spacing="1.5">MÁS CERCA ES MEJOR</text>
+</svg>

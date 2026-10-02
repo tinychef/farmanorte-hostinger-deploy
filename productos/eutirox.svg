@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" fill="none">
+  <defs>
+    <linearGradient id="boxGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFF1F2"/>
+    </linearGradient>
+    <filter id="shadow4" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#0F172A" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <ellipse cx="160" cy="215" rx="100" ry="12" fill="#0F172A" opacity="0.08"/>
+  <g filter="url(#shadow4)">
+    <rect x="50" y="40" width="220" height="150" rx="12" fill="url(#boxGrad4)" stroke="#FECDD3" stroke-width="1.5"/>
+    <path d="M50 40 L270 40 L270 68 L50 68 Z" fill="#BE123C"/>
+    <text x="65" y="58" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="800" fill="#FFFFFF" letter-spacing="0.5">MERCK / TIROIDES</text>
+    <text x="65" y="112" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="900" fill="#0F172A">EUTIROX</text>
+    <text x="65" y="132" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="800" fill="#E11D48">100 mcg (Levotiroxina)</text>
+    <text x="65" y="152" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="600" fill="#64748B">50 Comprimidos</text>
+    <text x="65" y="172" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="700" fill="#BE123C">Hormona Tiroidea</text>
+    <circle cx="230" cy="130" r="14" fill="#FFE4E6" stroke="#E11D48" stroke-width="1.5"/>
+    <circle cx="230" cy="130" r="10" fill="#FDA4AF"/>
+  </g>
+</svg>

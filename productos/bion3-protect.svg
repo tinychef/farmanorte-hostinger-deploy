@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" fill="none">
+  <defs>
+    <linearGradient id="bionGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#ECFDF5"/>
+    </linearGradient>
+    <filter id="shadowBion" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#0F172A" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <ellipse cx="160" cy="215" rx="100" ry="12" fill="#0F172A" opacity="0.08"/>
+  <g filter="url(#shadowBion)">
+    <rect x="50" y="40" width="220" height="150" rx="12" fill="url(#bionGrad)" stroke="#6EE7B7" stroke-width="1.5"/>
+    <path d="M50 40 L270 40 L270 68 L50 68 Z" fill="#059669"/>
+    <text x="65" y="58" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="800" fill="#FFFFFF" letter-spacing="0.5">MERCK / P&amp;G HEALTH</text>
+    <text x="65" y="112" font-family="'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="900" fill="#065F46">BION 3</text>
+    <text x="145" y="112" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="800" fill="#10B981">PROTECT</text>
+    <text x="65" y="134" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" fill="#0F172A">3 Probióticos + 12 Vitaminas + 7 Minerales</text>
+    <text x="65" y="154" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="600" fill="#64748B">30 Comprimidos recubiertos</text>
+    <text x="65" y="172" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="700" fill="#047857">Defensas y Energía Diaria</text>
+    <circle cx="230" cy="130" r="14" fill="#D1FAE5" stroke="#10B981" stroke-width="1.5"/>
+    <circle cx="230" cy="130" r="10" fill="#A7F3D0"/>
+  </g>
+</svg>

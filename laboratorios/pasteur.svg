@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 60" width="210" height="60" fill="none">
+  <rect width="210" height="60" rx="8" fill="transparent"/>
+  <!-- Laboratorio Pasteur -->
+  <g transform="translate(10, 13)">
+    <circle cx="17" cy="17" r="17" fill="#0D9488"/>
+    <path d="M12 17 L22 17 M17 12 L17 22" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round"/>
+  </g>
+  <text x="54" y="37" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="900" fill="#134E4A" letter-spacing="1">PASTEUR</text>
+  <text x="55" y="49" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="7.5" font-weight="700" fill="#0F766E" letter-spacing="1.5">LABORATORIOS</text>
+</svg>

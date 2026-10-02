@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <rect width="240" height="60" rx="8" fill="transparent"/>
+  <!-- Sanofi Dots -->
+  <g transform="translate(10, 12)">
+    <circle cx="10" cy="18" r="8" fill="#4B0082"/>
+    <circle cx="26" cy="18" r="8" fill="#00C49F"/>
+  </g>
+  <text x="56" y="34" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="900" fill="#0E1B4D" letter-spacing="1">sanofi</text>
+  <text x="57" y="47" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="8" font-weight="700" fill="#64748B" letter-spacing="1">CHILE</text>
+</svg>

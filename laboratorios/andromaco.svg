@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 60" width="230" height="60" fill="none">
+  <rect width="230" height="60" rx="8" fill="transparent"/>
+  <!-- Andromaco Triangle / Shield -->
+  <g transform="translate(10, 13)">
+    <circle cx="17" cy="17" r="17" fill="#1D4ED8"/>
+    <path d="M17 6 L26 25 L8 25 Z" fill="#FFFFFF"/>
+    <circle cx="17" cy="19" r="3" fill="#1D4ED8"/>
+  </g>
+  <text x="54" y="37" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="900" fill="#1E3A8A" letter-spacing="1">ANDRÓMACO</text>
+  <text x="55" y="49" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="7.5" font-weight="700" fill="#64748B" letter-spacing="1.5">LABORATORIOS</text>
+</svg>

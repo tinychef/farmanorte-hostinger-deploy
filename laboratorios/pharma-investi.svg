@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <rect width="240" height="60" rx="8" fill="transparent"/>
+  <!-- Pharma Investi -->
+  <g transform="translate(10, 13)">
+    <rect x="0" y="0" width="34" height="34" rx="8" fill="#4F46E5"/>
+    <path d="M9 17 L17 9 L25 17 L17 25 Z" fill="#FFFFFF"/>
+    <circle cx="17" cy="17" r="3" fill="#4F46E5"/>
+  </g>
+  <text x="54" y="31" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="900" fill="#1E1B4B" letter-spacing="0.5">PHARMA</text>
+  <text x="54" y="47" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="800" fill="#4338CA" letter-spacing="1">INVESTI</text>
+  <text x="135" y="47" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="8" font-weight="700" fill="#64748B">CHILE</text>
+</svg>

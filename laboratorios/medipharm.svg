@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60" fill="none">
+  <rect width="220" height="60" rx="8" fill="transparent"/>
+  <!-- Laboratorio Medipharm -->
+  <g transform="translate(10, 13)">
+    <circle cx="17" cy="17" r="17" fill="#6366F1"/>
+    <path d="M10 17 C10 11 24 11 24 17 C24 23 10 23 10 17 Z" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+  </g>
+  <text x="54" y="37" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="900" fill="#312E81" letter-spacing="1">MEDIPHARM</text>
+  <text x="55" y="49" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="7.5" font-weight="700" fill="#4338CA" letter-spacing="1.5">CHILE</text>
+</svg>
